@@ -32,6 +32,26 @@ price, discount_applied, payment_method, purchase_date
 ## Project Flow
 CSV File → Pandas Data Cleaning → SQL Server Express → SQL Queries → Analysis
 
+## Folder Structure
+Customer-Shopping-Behavior-Analysis/
+│
+├── Data/
+│   ├── Business_Problem_Statement.pdf
+│   └── customer_shopping_behavior.csv
+│
+├── Notebook/
+│   └── Customer_Behavior_Analysis.ipynb
+│
+├── PowerBI/
+│   └── customer-behavior-dashboard.pbix
+│
+├── Report/
+│   └── Customer_Shopping_Behavior_Analysis_Report.pdf
+│
+├── README.md
+
+
+
 ## Database Details
 - Database: SQL Server Express
 - Tool: SSMS
