@@ -32,15 +32,6 @@ price, discount_applied, payment_method, purchase_date
 ## Project Flow
 CSV File → Pandas Data Cleaning → SQL Server Express → SQL Queries → Analysis
 
-## Project Structure
-├── data/
-│   └── customer_sales_data.csv
-├── notebooks/
-│   └── data_cleaning.ipynb
-├── scripts/
-│   └── upload_to_sql.py
-├── README.md
-
 ## Database Details
 - Database: SQL Server Express
 - Tool: SSMS
